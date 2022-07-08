@@ -1,0 +1,16 @@
+[{
+    "nombre": "remera",
+    "precio": 2000,
+    "cantidad": 8
+},
+{
+    "nombre": "pantalon",
+    "precio": 1500,
+    "cantidad": 3
+},
+{
+    "nombre": "campera",
+    "precio": 3500,
+    "cantidad": 2
+}
+]
